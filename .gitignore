@@ -1,0 +1,22 @@
+# OS & Editor
+.DS_Store
+.vscode/
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Windows
+desktop.ini
